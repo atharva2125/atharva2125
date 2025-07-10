@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Atharva Prabhu</h1>
-<h3 align="center">A passionate web developer</h3>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva2125&label=Profile%20views&color=0e75b6&style=flat" alt="atharva2125" /> </p>
 
